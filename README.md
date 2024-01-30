@@ -2,7 +2,7 @@
 ## An implementation of the Map-Reduce model in Java.
 
 Pour tester notre travail en mode distribué, il faut changer les noms des deux premiers éléments de la ligne 22 de la classe 
-[HdfsClient]() dans le package hdfs et dans la ligne 12 dans la classe [JobLauncher]() dans le package daemon par les noms des machines à utiliser. Sinon, si c'est en local, il faut les définir tous en 'localhost'.
+[HdfsClient](https://github.com/AkkarKhadija24/Hadoop/blob/main/hagidoop/src/hdfs/HdfsClient.java) dans le package hdfs et dans la ligne 12 dans la classe [JobLauncher](https://github.com/AkkarKhadija24/Hadoop/blob/main/hagidoop/src/daemon/JobLauncher.java) dans le package daemon par les noms des machines à utiliser. Sinon, si c'est en local, il faut les définir tous en 'localhost'.
 
 ### Compilation dans src à l’aide de la commande:
 
